@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'sans' : ['ScandiaWeb', 'sans-serif']
+    }
   },
   darkMode: 'class',
   plugins: [],
